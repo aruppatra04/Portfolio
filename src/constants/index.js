@@ -45,7 +45,7 @@ export const PROJECTS = [
     description:
       "A RESTful backend application for managing contacts, developed using Node.js, Express, and MongoDB. It includes secure JWT authentication.",
     technologies: ["Node.js", "Express.js", "MongoDb", "Postman", "REST API"],
-    previewLink: "https://your-preview-link.com",
+    previewLink: "",
     sourceCodeLink: "https://github.com/aruppatra04/Contacts-Manager",
   },
   {
@@ -54,7 +54,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, coding journey and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind"],
-    previewLink: "https://your-preview-link.com",
+    previewLink: "https://arup-patra.vercel.app/",
     sourceCodeLink: "https://github.com/aruppatra04/Portfolio",
   },
   {
