@@ -82,7 +82,7 @@ To set up a local development environment and run this portfolio website on your
 2.  **Navigate to the Project Directory:**
     Once the repository is cloned, navigate into the project's root directory using your terminal or command prompt:
     ```bash
-    cd my-portfolio
+    cd portfolio
     ```
 
 3.  **Install Dependencies:**
